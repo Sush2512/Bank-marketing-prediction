@@ -1,1 +1,2 @@
 # Bank-marketing-prediction
+This dataset is obtained from the direct marketing campaigns of a Portuguese banking institution. These marketing campaigns were based on phone calls. In order to determine if the product (bank term deposit) would be subscribed ('yes') or not ('no'), it was frequently necessary to make more than one contact with the same client. Here we have to predict whether the client will subscribe to the term deposit or not.
